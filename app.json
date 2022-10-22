@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/Nihaal-TG/Thomas-Shelby",
-    "repository": "https://github.com/Nihaal-TG/Thomas-Shelby",
+    "repository": "https://github.com/Rippo123/Thomas-Shelby",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
